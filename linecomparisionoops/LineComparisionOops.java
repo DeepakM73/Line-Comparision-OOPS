@@ -6,7 +6,6 @@ import java.util.Scanner;
  */
 
 public class LineComparisionOops {
-
     /**
      * Purpose - Modeling of line
      *
@@ -30,7 +29,6 @@ public class LineComparisionOops {
 
         return length;
     }
-
     /**
      * Purpose - shows equality of two line
      */
@@ -43,7 +41,6 @@ public class LineComparisionOops {
         else
             System.out.println("Line1 is less to Line2");
     }
-
     /**
      * Purpose - Give final output
      */
